@@ -1,7 +1,9 @@
+import Advice from "./Component/Advise";
+
 function App() {
   return (
     <div>
-      Hello world!
+      <Advice/>
     </div>
   );
 }
